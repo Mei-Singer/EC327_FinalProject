@@ -1,7 +1,9 @@
 # EC327_FinalProject
 
 Team Name: Senior Citizens
+
 Member names: Mei Singer, Marianna Natale, Fabio Amada, Kyle Karr
+
 Member emails: mlsinger@bu.edu, mnatale@bu.edu, famado@bu.edu, kkarr@bu.edu
 
 1 paragraph overview
